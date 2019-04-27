@@ -6,4 +6,5 @@
 *~
 /**/target
 /home
+/.vscode/*
 /local-rustup
